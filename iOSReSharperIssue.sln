@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSReSharperIssue", "iOSReSharperIssue\iOSReSharperIssue.csproj", "{C94AE18D-7432-43EA-B75F-C052E7B08A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94AE18D-7432-43EA-B75F-C052E7B08A17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C29ADB-984A-4C8D-B424-E4AC6F5B5E39}
+	EndGlobalSection
+EndGlobal
